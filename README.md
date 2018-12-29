@@ -1,8 +1,8 @@
 # Arez-IdleStatus
 
-<div style="font-size: big; color: red">
-Deprecated: Project has been merged into <a href="http://travis-ci.org/arez/arez-dom"><code>arez-dom</code></a>
-</div>
+<p align="center"><big>Deprecated: Project has been merged into <a href="http://travis-ci.org/arez/arez-dom"><code>arez-dom</code></a></big></p>
+
+<font size="5" face="arial" color="red">Test</font>
 
 [![Build Status](https://secure.travis-ci.org/arez/arez-idlestatus.svg?branch=master)](http://travis-ci.org/arez/arez-idlestatus)
 [<img src="https://img.shields.io/maven-central/v/org.realityforge.arez.idlestatus/arez-idlestatus.svg?label=latest%20release"/>](http://search.maven.org/#search%7Cga%7C1%7Cg%3A%22org.realityforge.arez.idlestatus%22)
