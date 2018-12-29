@@ -1,4 +1,6 @@
-<p align="center">Deprecated: Project has been merged into <a href="http://travis-ci.org/arez/arez-dom"><code>arez-dom</code></a></p>
+# Deprecated
+
+<p align="center">Project has been merged into <a href="http://travis-ci.org/arez/arez-dom"><code>arez-dom</code></a></p>
 
 ---
 
